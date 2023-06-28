@@ -34,14 +34,17 @@ const Home: NextPage = () => {
     },
     // Add more testimonials here
   ];
-  const navigation = [{ link: "/", text: "placholder" }];
+  const navigation = [{ link: "/", text: "" }];
   return (
     <Box>
-      <Header title="Placeholder Title" navigation={navigation} />
+      <Header title="Toneway" navigation={navigation} />
       <Hero
-        title="Placeholder Title"
-        subtitle="placeholder subtitle"
-        backgroundImg="/placeholder.png"
+        button={{
+          link: "https://distrokid.com/hyperfollow/toneway/let-it-ride",
+          text: "Presave Now! Out July 4th",
+        }}
+        // subtitle="Let it Ride"
+        backgroundImg="/LetItRideBannerCropped.png"
       />
       <ContactForm subtext={contactFormSubtext} />
     </Box>

@@ -10,8 +10,8 @@ import {
 } from "@chakra-ui/react";
 
 export type Props = {
-  title: string;
-  subtitle: string;
+  title?: string;
+  subtitle?: string;
   button?: {
     text: string;
     link: string;
@@ -22,35 +22,32 @@ export type Props = {
 export const Hero = ({ title, subtitle, button, backgroundImg }: Props) => {
   return (
     <Box
-      bgImage={`url(${backgroundImg})`}
-      bgSize="cover"
+      background={`url(${backgroundImg})`}
+      bgColor="background.primary"
+      bgSize="contain"
+      bgRepeat="no-repeat"
       bgPosition="center"
-      minHeight="60vh"
+      minHeight="90vh"
       py={10}
       px={4}
+      justifyContent="center"
+      alignItems="center"
+      flexDirection="column"
+      display="flex"
     >
-      <Flex
-        justifyContent="center"
-        alignItems="center"
-        flexDirection="column"
-        minHeight="100%"
-      >
-        <VStack spacing={4}>
-          <Heading as="h1" size="2xl" color="white">
-            {title}
-          </Heading>
-          <Text fontSize="xl" color="white">
-            {subtitle}
-          </Text>
-          {button && (
-            <Link href={button.link}>
-              <Button as="a" colorScheme="blue" size="lg">
-                {button.text}
-              </Button>
-            </Link>
-          )}
-        </VStack>
-      </Flex>
+      <Heading size="xl" color="white">
+        {title}
+      </Heading>
+      <Text fontSize="xl" color="white">
+        {subtitle}
+      </Text>
+      {button && (
+        <Link href={button.link} isExternal>
+          <Button as="a" colorScheme="green" size="lg" variant="outline">
+            {button.text}
+          </Button>
+        </Link>
+      )}
     </Box>
   );
 };
