@@ -1,13 +1,5 @@
 import React from "react";
-import {
-  Box,
-  Heading,
-  Text,
-  Button,
-  Flex,
-  VStack,
-  Link,
-} from "@chakra-ui/react";
+import { Box, Heading, Text, Button, Link } from "@chakra-ui/react";
 
 export type Props = {
   title?: string;
@@ -16,13 +8,16 @@ export type Props = {
     text: string;
     link: string;
   };
-  backgroundImg: string;
 };
 
-export const Hero = ({ title, subtitle, button, backgroundImg }: Props) => {
+export const Hero = ({ title, subtitle, button }: Props) => {
   return (
     <Box
-      background={`url(${backgroundImg})`}
+      backgroundImage={{
+        base: "/LetItRideVertical.png",
+        sm: "/LetItRideCover.png",
+        md: `url(${"/LetItRideBannerCropped.png"})`,
+      }}
       bgColor="background.primary"
       bgSize="contain"
       bgRepeat="no-repeat"
@@ -43,7 +38,11 @@ export const Hero = ({ title, subtitle, button, backgroundImg }: Props) => {
       </Text>
       {button && (
         <Link href={button.link} isExternal>
-          <Button as="a" colorScheme="green" size="lg" variant="outline">
+          <Button
+            backgroundColor="rgb(200,200,200, .5)"
+            size="lg"
+            variant="outline"
+          >
             {button.text}
           </Button>
         </Link>

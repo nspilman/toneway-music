@@ -35,12 +35,12 @@ export const Navigation = ({ title, navigation }: Props) => {
       <Box display={visibleAtMedWidth} position="absolute" width="100%">
         <LocalNavigation isVisible links={navigation} />
       </Box>
-      <Box display={visibleAtMedWidth}>
+      <Box display={"block"}>
         <SocialMediaIcons />
       </Box>
-      <Box cursor="pointer" display={invisibleAtMed}>
+      {/* <Box cursor="pointer" display={invisibleAtMed}>
         <HamburgerIcon onClick={() => setIsModalOpen(!isModalOpen)} />
-      </Box>
+      </Box> */}
     </>
   );
 };

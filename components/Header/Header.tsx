@@ -1,4 +1,4 @@
-import { Flex, Heading, Text } from "@chakra-ui/react";
+import { Flex, Heading, Text, Link } from "@chakra-ui/react";
 import { Navigation } from "./Navigation";
 import { Navigation as NavType } from "../../types/navigation";
 
@@ -19,7 +19,9 @@ export const Header = ({ title, navigation }: Props) => {
       position="relative"
     >
       <Heading size="md">
-        <Text casing="uppercase">{title}</Text>
+        <Link href="/">
+          <Text casing="uppercase">{title}</Text>
+        </Link>
       </Heading>
       <Navigation title={title} navigation={navigation} />
     </Flex>

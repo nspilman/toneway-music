@@ -1,0 +1,1498 @@
+{
+  "02af0d39-a7bd-40d9-9bc4-2eb3bcd75ad5": {
+    "words": [
+      {
+        "value": "like",
+        "from": 75.086,
+        "to": 75.334,
+        "confidence": 0.95
+      },
+      {
+        "value": "that",
+        "from": 75.372,
+        "to": 75.622,
+        "confidence": 0.56095
+      },
+      {
+        "value": "shirt",
+        "from": 75.676,
+        "to": 75.986,
+        "confidence": 0.84418
+      },
+      {
+        "value": "much",
+        "from": 76.018,
+        "to": 76.358,
+        "confidence": 0.97012
+      },
+      {
+        "value": "any",
+        "from": 76.444,
+        "to": 77.174,
+        "confidence": 0.68194
+      },
+      {
+        "value": "way?",
+        "from": 77.372,
+        "to": 78.12,
+        "confidence": 0.93827
+      }
+    ],
+    "from": 75.086,
+    "to": 78.12
+  },
+  "04230fc2-9382-4766-80f0-1a0b30612b22": {
+    "words": [
+      {
+        "value": "Shift",
+        "from": 24.57,
+        "to": 25.026,
+        "confidence": 0.4208
+      },
+      {
+        "value": "into",
+        "from": 25.098,
+        "to": 25.43,
+        "confidence": 0.98163
+      },
+      {
+        "value": "the",
+        "from": 25.5,
+        "to": 25.734,
+        "confidence": 1
+      },
+      {
+        "value": "cold",
+        "from": 25.772,
+        "to": 26.338,
+        "confidence": 0.52791
+      },
+      {
+        "value": "and",
+        "from": 26.434,
+        "to": 26.694,
+        "confidence": 0.97
+      },
+      {
+        "value": "she's",
+        "from": 26.732,
+        "to": 27.106,
+        "confidence": 0.8345
+      },
+      {
+        "value": "on",
+        "from": 27.138,
+        "to": 27.382,
+        "confidence": 0.74
+      },
+      {
+        "value": "your",
+        "from": 27.436,
+        "to": 27.654,
+        "confidence": 1
+      },
+      {
+        "value": "mind",
+        "from": 27.692,
+        "to": 27.942,
+        "confidence": 0.76411
+      },
+      {
+        "value": "but",
+        "from": 27.996,
+        "to": 28.214,
+        "confidence": 0.99609
+      },
+      {
+        "value": "she",
+        "from": 28.252,
+        "to": 28.454,
+        "confidence": 0.96802
+      },
+      {
+        "value": "ain't",
+        "from": 28.492,
+        "to": 28.786,
+        "confidence": 0.93071
+      }
+    ],
+    "from": 24.57,
+    "to": 28.818
+  },
+  "1295facc-158c-453a-8065-192de854773a": {
+    "words": [
+      {
+        "value": "Have",
+        "from": 19.37,
+        "to": 19.582,
+        "confidence": 0.954
+      },
+      {
+        "value": "you",
+        "from": 19.636,
+        "to": 19.854,
+        "confidence": 1
+      },
+      {
+        "value": "felt",
+        "from": 19.892,
+        "to": 20.154,
+        "confidence": 0.55644
+      },
+      {
+        "value": "this",
+        "from": 20.202,
+        "to": 20.414,
+        "confidence": 0.97692
+      },
+      {
+        "value": "way",
+        "from": 20.452,
+        "to": 20.702,
+        "confidence": 0.9162
+      },
+      {
+        "value": "before?",
+        "from": 20.756,
+        "to": 21.358,
+        "confidence": 0.86723
+      }
+    ],
+    "from": 19.37,
+    "to": 21.524
+  },
+  "1b4abd93-d74b-4134-9f18-b066b95265b3": {
+    "words": [
+      {
+        "value": "To",
+        "from": 132.33,
+        "to": 132.694,
+        "confidence": 0.88
+      },
+      {
+        "value": "just",
+        "from": 132.732,
+        "to": 132.982,
+        "confidence": 0.97774
+      },
+      {
+        "value": "do",
+        "from": 133.036,
+        "to": 133.254,
+        "confidence": 0.99582
+      },
+      {
+        "value": "what",
+        "from": 133.292,
+        "to": 133.494,
+        "confidence": 0.99814
+      },
+      {
+        "value": "you",
+        "from": 133.532,
+        "to": 133.734,
+        "confidence": 0.99
+      },
+      {
+        "value": "will?",
+        "from": 133.772,
+        "to": 134.118,
+        "confidence": 0.753
+      }
+    ],
+    "from": 132.33,
+    "to": 134.204
+  },
+  "26dcfda4-924e-4452-93e4-8a11d35652f9": {
+    "words": [
+      {
+        "value": "Don't",
+        "from": 81.21,
+        "to": 81.666,
+        "confidence": 0.98234
+      },
+      {
+        "value": "let",
+        "from": 81.698,
+        "to": 81.894,
+        "confidence": 0.98898
+      },
+      {
+        "value": "it",
+        "from": 81.932,
+        "to": 82.134,
+        "confidence": 0.95
+      },
+      {
+        "value": "go",
+        "from": 82.172,
+        "to": 82.76,
+        "confidence": 0.97225
+      },
+      {
+        "value": "and",
+        "from": 83.69,
+        "to": 84.054,
+        "confidence": 0.96
+      },
+      {
+        "value": "let",
+        "from": 84.092,
+        "to": 84.342,
+        "confidence": 0.97234
+      },
+      {
+        "value": "it",
+        "from": 84.396,
+        "to": 84.614,
+        "confidence": 1
+      },
+      {
+        "value": "ride?",
+        "from": 84.652,
+        "to": 85.35,
+        "confidence": 0.60833
+      }
+    ],
+    "from": 81.21,
+    "to": 85.35
+  },
+  "288c5870-cb3e-464b-8c53-d045378cb4a2": {
+    "words": [
+      {
+        "value": "Don't",
+        "from": 143.69,
+        "to": 144.066,
+        "confidence": 0.78874
+      },
+      {
+        "value": "let",
+        "from": 144.098,
+        "to": 144.294,
+        "confidence": 0.99343
+      },
+      {
+        "value": "it",
+        "from": 144.332,
+        "to": 144.534,
+        "confidence": 1
+      },
+      {
+        "value": "show?",
+        "from": 144.572,
+        "to": 145.16,
+        "confidence": 0.92864
+      }
+    ],
+    "from": 143.69,
+    "to": 145.16
+  },
+  "2e8ecc80-9ac4-491d-bc70-a7a7c142e93c": {
+    "words": [
+      {
+        "value": "I",
+        "from": 86.65,
+        "to": 87.014,
+        "confidence": 0.43
+      },
+      {
+        "value": "thought",
+        "from": 87.052,
+        "to": 87.35,
+        "confidence": 0.34492
+      },
+      {
+        "value": "it's",
+        "from": 87.42,
+        "to": 87.746,
+        "confidence": 0.38033
+      },
+      {
+        "value": "always",
+        "from": 87.778,
+        "to": 88.118,
+        "confidence": 0.85754
+      },
+      {
+        "value": "changing",
+        "from": 88.204,
+        "to": 88.782,
+        "confidence": 0.23372
+      },
+      {
+        "value": "like",
+        "from": 88.866,
+        "to": 89.162,
+        "confidence": 0.98
+      },
+      {
+        "value": "tonight?",
+        "from": 89.216,
+        "to": 90.01,
+        "confidence": 0.39103
+      }
+    ],
+    "from": 86.65,
+    "to": 90.01
+  },
+  "414efd8d-c071-425b-a0ef-96fd9ac5c8bf": {
+    "words": [
+      {
+        "value": "We",
+        "from": 120.39,
+        "to": 120.754,
+        "confidence": 0.99677
+      },
+      {
+        "value": "all",
+        "from": 120.792,
+        "to": 120.994,
+        "confidence": 0.98
+      },
+      {
+        "value": "got",
+        "from": 121.032,
+        "to": 121.234,
+        "confidence": 0.99868
+      },
+      {
+        "value": "time",
+        "from": 121.272,
+        "to": 121.522,
+        "confidence": 0.6523
+      },
+      {
+        "value": "to",
+        "from": 121.576,
+        "to": 121.746,
+        "confidence": 0.92
+      },
+      {
+        "value": "kill",
+        "from": 121.768,
+        "to": 122.34,
+        "confidence": 0.7931
+      },
+      {
+        "value": "to",
+        "from": 122.71,
+        "to": 123.074,
+        "confidence": 0.48
+      },
+      {
+        "value": "just",
+        "from": 123.112,
+        "to": 123.362,
+        "confidence": 0.92406
+      },
+      {
+        "value": "do",
+        "from": 123.416,
+        "to": 123.682,
+        "confidence": 0.97934
+      },
+      {
+        "value": "what",
+        "from": 123.736,
+        "to": 123.906,
+        "confidence": 0.99863
+      },
+      {
+        "value": "you",
+        "from": 123.928,
+        "to": 124.114,
+        "confidence": 0.87
+      },
+      {
+        "value": "will?",
+        "from": 124.152,
+        "to": 124.74,
+        "confidence": 0.52286
+      }
+    ],
+    "from": 120.39,
+    "to": 124.74
+  },
+  "4857cbef-44ad-4567-838b-176654387f42": {
+    "words": [
+      {
+        "value": "Church",
+        "from": 72.59,
+        "to": 73.054,
+        "confidence": 0.7405
+      },
+      {
+        "value": "run",
+        "from": 73.102,
+        "to": 73.362,
+        "confidence": 0.46459
+      },
+      {
+        "value": "in",
+        "from": 73.416,
+        "to": 73.586,
+        "confidence": 0.99
+      },
+      {
+        "value": "the",
+        "from": 73.608,
+        "to": 73.746,
+        "confidence": 0.99
+      },
+      {
+        "value": "wash",
+        "from": 73.768,
+        "to": 74.414,
+        "confidence": 0.49265
+      },
+      {
+        "value": "didn't",
+        "from": 74.542,
+        "to": 75.002,
+        "confidence": 0.53411
+      }
+    ],
+    "from": 72.59,
+    "to": 75.086
+  },
+  "53a90090-fe8c-45ca-ab58-2dff5631bd3e": {
+    "words": [
+      {
+        "value": "We",
+        "from": 127.59,
+        "to": 127.954,
+        "confidence": 0.99759
+      },
+      {
+        "value": "all",
+        "from": 127.992,
+        "to": 128.194,
+        "confidence": 0.99
+      },
+      {
+        "value": "got",
+        "from": 128.232,
+        "to": 128.434,
+        "confidence": 0.99688
+      },
+      {
+        "value": "time",
+        "from": 128.472,
+        "to": 128.722,
+        "confidence": 0.71067
+      },
+      {
+        "value": "to",
+        "from": 128.776,
+        "to": 128.946,
+        "confidence": 0.92
+      },
+      {
+        "value": "kill",
+        "from": 128.968,
+        "to": 129.54,
+        "confidence": 0.78366
+      },
+      {
+        "value": "to",
+        "from": 129.99,
+        "to": 130.354,
+        "confidence": 0.61
+      },
+      {
+        "value": "tell",
+        "from": 130.392,
+        "to": 130.594,
+        "confidence": 0.57566
+      },
+      {
+        "value": "you",
+        "from": 130.632,
+        "to": 130.846,
+        "confidence": 0.71
+      },
+      {
+        "value": "what",
+        "from": 130.888,
+        "to": 131.094,
+        "confidence": 0.99817
+      },
+      {
+        "value": "you",
+        "from": 131.132,
+        "to": 131.334,
+        "confidence": 1
+      },
+      {
+        "value": "will?",
+        "from": 131.372,
+        "to": 131.96,
+        "confidence": 0.66112
+      }
+    ],
+    "from": 127.59,
+    "to": 132.33
+  },
+  "5af8a926-2be0-40b8-a1ca-0742cfb9a976": {
+    "words": [
+      {
+        "value": "let",
+        "from": 48.098,
+        "to": 48.342,
+        "confidence": 0.70514
+      },
+      {
+        "value": "it",
+        "from": 48.396,
+        "to": 48.614,
+        "confidence": 1
+      },
+      {
+        "value": "go",
+        "from": 48.652,
+        "to": 49.24,
+        "confidence": 0.57989
+      },
+      {
+        "value": "and",
+        "from": 50.05,
+        "to": 50.462,
+        "confidence": 0.51
+      },
+      {
+        "value": "let",
+        "from": 50.516,
+        "to": 50.83,
+        "confidence": 0.57034
+      },
+      {
+        "value": "it",
+        "from": 50.9,
+        "to": 51.52,
+        "confidence": 0.95
+      },
+      {
+        "value": "rise?",
+        "from": 51.89,
+        "to": 52.75,
+        "confidence": 0.2359
+      }
+    ],
+    "from": 48.098,
+    "to": 52.75
+  },
+  "6fec1f9a-8c15-4ddb-acdf-e3282fb707d4": {
+    "words": [
+      {
+        "value": "Don't",
+        "from": 134.204,
+        "to": 134.466,
+        "confidence": 0.36936
+      },
+      {
+        "value": "let",
+        "from": 134.498,
+        "to": 134.694,
+        "confidence": 0.92062
+      },
+      {
+        "value": "it",
+        "from": 134.732,
+        "to": 134.934,
+        "confidence": 0.98
+      },
+      {
+        "value": "go,",
+        "from": 134.972,
+        "to": 135.56,
+        "confidence": 0.96442
+      },
+      {
+        "value": "let",
+        "from": 136.73,
+        "to": 137.094,
+        "confidence": 0.94249
+      },
+      {
+        "value": "it",
+        "from": 137.132,
+        "to": 137.382,
+        "confidence": 0.64
+      },
+      {
+        "value": "ride?",
+        "from": 137.436,
+        "to": 138.15,
+        "confidence": 0.53739
+      }
+    ],
+    "from": 134.204,
+    "to": 138.15
+  },
+  "7b73d7d9-c187-4b9d-92cc-7e1fac119845": {
+    "words": [
+      {
+        "value": "Keep",
+        "from": 125.67,
+        "to": 126.034,
+        "confidence": 0.93764
+      },
+      {
+        "value": "standing",
+        "from": 126.072,
+        "to": 126.494,
+        "confidence": 0.6477
+      },
+      {
+        "value": "still?",
+        "from": 126.542,
+        "to": 127.14,
+        "confidence": 0.78128
+      }
+    ],
+    "from": 125.67,
+    "to": 127.59
+  },
+  "7e37b85e-ea69-4575-919a-57a97631aebd": {
+    "words": [
+      {
+        "value": "Don't",
+        "from": 146.33,
+        "to": 146.706,
+        "confidence": 0.64425
+      },
+      {
+        "value": "you",
+        "from": 146.738,
+        "to": 146.982,
+        "confidence": 0.82
+      },
+      {
+        "value": "hide?",
+        "from": 147.036,
+        "to": 147.75,
+        "confidence": 0.25296
+      }
+    ],
+    "from": 146.33,
+    "to": 147.75
+  },
+  "7f44b8eb-f423-4897-b4b3-1a86964233df": {
+    "words": [
+      {
+        "value": "feel",
+        "from": 65.496,
+        "to": 65.762,
+      },
+      {
+        "value": "like",
+        "from": 65.816,
+        "to": 66.082,
+      },
+      {
+        "value": "you",
+        "from": 66.136,
+        "to": 66.354,
+      },
+      {
+        "value": "can",
+        "from": 66.392,
+        "to": 66.594,
+      },
+      {
+        "value": "face",
+        "from": 66.632,
+        "to": 66.93,
+        "confidence": 0.56839
+      },
+      {
+        "value": "the",
+        "from": 67,
+        "to": 67.186,
+        "confidence": 0.82
+      },
+      {
+        "value": "nation?",
+        "from": 67.208,
+        "to": 67.678,
+        "confidence": 0.94035
+      }
+    ],
+    "from": 65.496,
+    "to": 67.774
+  },
+  "847f51c3-1100-4608-8e72-538cb75c241e": {
+    "words": [
+      {
+        "value": "The",
+        "from": 96.27,
+        "to": 96.682,
+        "confidence": 1
+      },
+      {
+        "value": "only",
+        "from": 96.736,
+        "to": 97.098,
+        "confidence": 0.97
+      },
+      {
+        "value": "thing",
+        "from": 97.184,
+        "to": 97.482,
+        "confidence": 0.68612
+      },
+      {
+        "value": "you",
+        "from": 97.536,
+        "to": 97.802,
+        "confidence": 0.9
+      },
+      {
+        "value": "got",
+        "from": 97.856,
+        "to": 98.266,
+        "confidence": 0.59625
+      },
+      {
+        "value": "was",
+        "from": 98.368,
+        "to": 98.73,
+        "confidence": 0.5873
+      },
+      {
+        "value": "inside?",
+        "from": 98.8,
+        "to": 99.42,
+        "confidence": 0.66663
+      }
+    ],
+    "from": 96.27,
+    "to": 99.42
+  },
+  "8c78a065-9ea9-4bb7-9df9-25efef868938": {
+    "words": [
+      {
+        "value": "calling",
+        "from": 28.818,
+        "to": 29.302,
+        "confidence": 0.47329
+      },
+      {
+        "value": "trying",
+        "from": 29.436,
+        "to": 29.782,
+        "confidence": 0.94646
+      },
+      {
+        "value": "to",
+        "from": 29.836,
+        "to": 30.054,
+        "confidence": 1
+      },
+      {
+        "value": "make",
+        "from": 30.092,
+        "to": 30.294,
+        "confidence": 0.99951
+      },
+      {
+        "value": "it",
+        "from": 30.332,
+        "to": 30.534,
+        "confidence": 0.95
+      },
+      {
+        "value": "home",
+        "from": 30.572,
+        "to": 31.11,
+        "confidence": 0.7352
+      },
+      {
+        "value": "as",
+        "from": 31.26,
+        "to": 31.622,
+        "confidence": 0.60757
+      },
+      {
+        "value": "the",
+        "from": 31.676,
+        "to": 31.846,
+        "confidence": 0.93
+      },
+      {
+        "value": "thoughts",
+        "from": 31.868,
+        "to": 32.306,
+        "confidence": 0.90337
+      },
+      {
+        "value": "in",
+        "from": 32.338,
+        "to": 32.486,
+        "confidence": 1
+      },
+      {
+        "value": "your",
+        "from": 32.508,
+        "to": 32.694,
+        "confidence": 0.76
+      },
+      {
+        "value": "head",
+        "from": 32.732,
+        "to": 32.982,
+        "confidence": 0.65135
+      }
+    ],
+    "from": 28.818,
+    "to": 33.036
+  },
+  "98616701-be97-48e5-b262-776a41fa9671": {
+    "words": [
+      {
+        "value": "Do",
+        "from": 115.83,
+        "to": 116.338,
+        "confidence": 0.99226
+      },
+      {
+        "value": "what",
+        "from": 116.424,
+        "to": 116.674,
+        "confidence": 0.56895
+      },
+      {
+        "value": "you",
+        "from": 116.712,
+        "to": 116.962,
+        "confidence": 0.6
+      },
+      {
+        "value": "will?",
+        "from": 117.016,
+        "to": 117.714,
+        "confidence": 0.98555
+      }
+    ],
+    "from": 115.83,
+    "to": 117.912
+  },
+  "99cbe467-04ee-4bc1-b1c5-fa30484a8874": {
+    "words": [
+      {
+        "value": "The",
+        "from": 62.79,
+        "to": 63.106,
+        "confidence": 0.91
+      },
+      {
+        "value": "sun",
+        "from": 63.128,
+        "to": 63.41,
+        "confidence": 0.90431
+      },
+      {
+        "value": "is",
+        "from": 63.48,
+        "to": 63.714,
+        "confidence": 0.9994
+      },
+      {
+        "value": "out",
+        "from": 63.752,
+        "to": 63.954,
+        "confidence": 0.99835
+      },
+      {
+        "value": "today",
+        "from": 63.992,
+        "to": 64.626,
+        "confidence": 0.5145
+      },
+      {
+        "value": "and",
+        "from": 64.808,
+        "to": 65.154,
+        "confidence": 0.75
+      },
+      {
+        "value": "you",
+        "from": 65.192,
+        "to": 65.442,
+        "confidence": 0.55
+      }
+    ],
+    "from": 62.79,
+    "to": 65.496
+  },
+  "9b2238a5-32bc-4945-9904-03f7adf372fc": {
+    "words": [
+      {
+        "value": "You",
+        "from": 149.05,
+        "to": 149.414,
+        "confidence": 0.95
+      },
+      {
+        "value": "never",
+        "from": 149.452,
+        "to": 149.918,
+        "confidence": 0.44636
+      },
+      {
+        "value": "really",
+        "from": 150.044,
+        "to": 150.526,
+        "confidence": 0.90707
+      },
+      {
+        "value": "go",
+        "from": 150.628,
+        "to": 151.086,
+        "confidence": 0.28234
+      },
+      {
+        "value": "till",
+        "from": 151.188,
+        "to": 151.514,
+        "confidence": 0.55492
+      },
+      {
+        "value": "you",
+        "from": 151.562,
+        "to": 151.726,
+        "confidence": 1
+      },
+      {
+        "value": "try?",
+        "from": 151.748,
+        "to": 152.32,
+        "confidence": 0.60476
+      }
+    ],
+    "from": 149.05,
+    "to": 152.32
+  },
+  "9c94c947-63c0-4777-bd57-73077d00cd8f": {
+    "words": [
+      {
+        "value": "Your",
+        "from": 21.524,
+        "to": 21.998,
+        "confidence": 0.6
+      },
+      {
+        "value": "umbrellas",
+        "from": 22.084,
+        "to": 22.842,
+        "confidence": 0.75492
+      },
+      {
+        "value": "broke,",
+        "from": 22.906,
+        "to": 23.226,
+        "confidence": 0.85993
+      },
+      {
+        "value": "the",
+        "from": 23.258,
+        "to": 23.406,
+        "confidence": 0.95
+      },
+      {
+        "value": "rain",
+        "from": 23.428,
+        "to": 23.786,
+        "confidence": 0.84899
+      },
+      {
+        "value": "has",
+        "from": 23.818,
+        "to": 23.966,
+        "confidence": 0.52516
+      },
+      {
+        "value": "fallen?",
+        "from": 23.988,
+        "to": 24.49,
+        "confidence": 0.5659
+      }
+    ],
+    "from": 21.524,
+    "to": 24.57
+  },
+  "9fcd3963-d061-412b-8466-7a99e811ea1f": {
+    "words": [
+      {
+        "value": "The",
+        "from": 117.912,
+        "to": 118.274,
+        "confidence": 0.53
+      },
+      {
+        "value": "wheel",
+        "from": 118.312,
+        "to": 118.526,
+        "confidence": 0.95842
+      },
+      {
+        "value": "keeps",
+        "from": 118.558,
+        "to": 118.926,
+        "confidence": 0.51683
+      },
+      {
+        "value": "turning",
+        "from": 118.958,
+        "to": 119.294,
+        "confidence": 0.19682
+      },
+      {
+        "value": "still?",
+        "from": 119.342,
+        "to": 119.94,
+        "confidence": 0.66031
+      }
+    ],
+    "from": 117.912,
+    "to": 120.39
+  },
+  "a4f8f02a-6afc-4f09-bb41-4100b57688a7": {
+    "words": [
+      {
+        "value": "Don't",
+        "from": 153.25,
+        "to": 153.674,
+        "confidence": 0.77035
+      },
+      {
+        "value": "let",
+        "from": 153.722,
+        "to": 153.934,
+        "confidence": 0.99735
+      },
+      {
+        "value": "it",
+        "from": 153.972,
+        "to": 154.126,
+        "confidence": 0.99
+      },
+      {
+        "value": "go",
+        "from": 154.148,
+        "to": 154.72,
+        "confidence": 0.96028
+      },
+      {
+        "value": "and",
+        "from": 155.65,
+        "to": 156.062,
+        "confidence": 0.81
+      },
+      {
+        "value": "let",
+        "from": 156.116,
+        "to": 156.382,
+        "confidence": 0.97082
+      },
+      {
+        "value": "it",
+        "from": 156.436,
+        "to": 157.04,
+        "confidence": 0.59
+      },
+      {
+        "value": "wow.",
+        "from": 159.33,
+        "to": 159.58,
+        "confidence": 0.99836
+      }
+    ],
+    "from": 153.25,
+    "to": 159.58
+  },
+  "aabee3f0-3b1d-4d94-8d9f-f5cc7b2b6f8f": {
+    "words": [
+      {
+        "value": "The",
+        "from": 139.45,
+        "to": 139.862,
+        "confidence": 0.71
+      },
+      {
+        "value": "answer",
+        "from": 139.916,
+        "to": 140.326,
+        "confidence": 0.496
+      },
+      {
+        "value": "comes",
+        "from": 140.428,
+        "to": 140.742,
+        "confidence": 0.80982
+      },
+      {
+        "value": "and",
+        "from": 140.796,
+        "to": 141.4,
+        "confidence": 0.45
+      },
+      {
+        "value": "your",
+        "from": 141.85,
+        "to": 142.214,
+        "confidence": 0.55
+      },
+      {
+        "value": "pride?",
+        "from": 142.252,
+        "to": 143.03,
+        "confidence": 0.60969
+      }
+    ],
+    "from": 139.45,
+    "to": 143.03
+  },
+  "ad35f35d-88e6-4985-bdfc-da9e3ad95355": {
+    "words": [
+      {
+        "value": "Don't",
+        "from": 100.37,
+        "to": 100.874,
+        "confidence": 0.68919
+      },
+      {
+        "value": "let",
+        "from": 100.922,
+        "to": 101.134,
+        "confidence": 0.99327
+      },
+      {
+        "value": "it",
+        "from": 101.172,
+        "to": 101.326,
+        "confidence": 0.99
+      },
+      {
+        "value": "go",
+        "from": 101.348,
+        "to": 101.92,
+        "confidence": 0.54078
+      },
+      {
+        "value": "and",
+        "from": 102.85,
+        "to": 103.262,
+        "confidence": 0.76
+      },
+      {
+        "value": "let",
+        "from": 103.316,
+        "to": 103.63,
+        "confidence": 0.90442
+      },
+      {
+        "value": "it",
+        "from": 103.7,
+        "to": 104.414,
+        "confidence": 0.99
+      },
+      {
+        "value": "rise?",
+        "from": 104.612,
+        "to": 105.55,
+        "confidence": 0.27827
+      }
+    ],
+    "from": 100.37,
+    "to": 105.55
+  },
+  "b0deff82-bdda-425b-9f7d-b5c049cee2d6": {
+    "words": [
+      {
+        "value": "Birds",
+        "from": 67.774,
+        "to": 68.286,
+        "confidence": 0.49337
+      },
+      {
+        "value": "are",
+        "from": 68.318,
+        "to": 68.466,
+        "confidence": 0.98974
+      },
+      {
+        "value": "singing",
+        "from": 68.488,
+        "to": 68.894,
+        "confidence": 0.72262
+      },
+      {
+        "value": "songs",
+        "from": 68.942,
+        "to": 69.598,
+        "confidence": 0.98254
+      },
+      {
+        "value": "we",
+        "from": 69.694,
+        "to": 69.954,
+        "confidence": 0.99914
+      },
+      {
+        "value": "are",
+        "from": 69.992,
+        "to": 70.242,
+        "confidence": 0.64455
+      },
+      {
+        "value": "living",
+        "from": 70.296,
+        "to": 70.754,
+        "confidence": 0.77331
+      },
+      {
+        "value": "in",
+        "from": 70.872,
+        "to": 71.202,
+        "confidence": 0.98
+      },
+      {
+        "value": "a",
+        "from": 71.256,
+        "to": 71.474,
+        "confidence": 0.95
+      },
+      {
+        "value": "simulation?",
+        "from": 71.512,
+        "to": 72.43,
+        "confidence": 0.54658
+      }
+    ],
+    "from": 67.774,
+    "to": 72.59
+  },
+  "d1d1af00-1de5-4649-9e96-5bedb5fb24c1": {
+    "words": [
+      {
+        "value": "start",
+        "from": 33.036,
+        "to": 33.302,
+        "confidence": 0.8719
+      },
+      {
+        "value": "to",
+        "from": 33.356,
+        "to": 33.526,
+        "confidence": 0.54
+      },
+      {
+        "value": "spin",
+        "from": 33.548,
+        "to": 33.874,
+        "confidence": 0.86829
+      },
+      {
+        "value": "and",
+        "from": 33.922,
+        "to": 34.134,
+        "confidence": 0.8
+      },
+      {
+        "value": "waiting",
+        "from": 34.172,
+        "to": 34.834,
+        "confidence": 0.31946
+      },
+      {
+        "value": "for",
+        "from": 34.882,
+        "to": 35.142,
+        "confidence": 0.89334
+      },
+      {
+        "value": "this",
+        "from": 35.196,
+        "to": 35.51,
+        "confidence": 0.93787
+      },
+      {
+        "value": "day",
+        "from": 35.58,
+        "to": 35.958,
+        "confidence": 0.99188
+      },
+      {
+        "value": "to",
+        "from": 36.044,
+        "to": 36.534,
+        "confidence": 0.7
+      },
+      {
+        "value": "end?",
+        "from": 36.652,
+        "to": 37.32,
+        "confidence": 0.75373
+      }
+    ],
+    "from": 33.036,
+    "to": 37.32
+  },
+  "e464712d-953d-4ce4-9e97-e6aa1bc26f29": {
+    "words": [
+      {
+        "value": "Don't",
+        "from": 37.93,
+        "to": 38.466,
+        "confidence": 0.59366
+      },
+      {
+        "value": "let",
+        "from": 38.498,
+        "to": 38.742,
+        "confidence": 0.81042
+      },
+      {
+        "value": "it",
+        "from": 38.796,
+        "to": 38.966,
+        "confidence": 1
+      },
+      {
+        "value": "go",
+        "from": 38.988,
+        "to": 39.56,
+        "confidence": 0.78013
+      },
+      {
+        "value": "and",
+        "from": 40.41,
+        "to": 40.87,
+        "confidence": 0.5
+      },
+      {
+        "value": "let",
+        "from": 40.94,
+        "to": 41.174,
+        "confidence": 0.99984
+      },
+      {
+        "value": "it",
+        "from": 41.212,
+        "to": 41.414,
+        "confidence": 1
+      },
+      {
+        "value": "ride?",
+        "from": 41.452,
+        "to": 42.15,
+        "confidence": 0.46773
+      }
+    ],
+    "from": 37.93,
+    "to": 42.15
+  },
+  "f258fac7-febb-4f8c-b278-e885bab619c7": {
+    "words": [
+      {
+        "value": "I",
+        "from": 43.45,
+        "to": 43.814,
+        "confidence": 0.53
+      },
+      {
+        "value": "want",
+        "from": 43.852,
+        "to": 44.15,
+        "confidence": 0.35069
+      },
+      {
+        "value": "you",
+        "from": 44.22,
+        "to": 44.454,
+        "confidence": 0.81
+      },
+      {
+        "value": "know",
+        "from": 44.492,
+        "to": 44.742,
+        "confidence": 0.37167
+      },
+      {
+        "value": "it",
+        "from": 44.796,
+        "to": 45.014,
+        "confidence": 0.89
+      },
+      {
+        "value": "changes",
+        "from": 45.052,
+        "to": 45.494,
+        "confidence": 0.32752
+      },
+      {
+        "value": "like",
+        "from": 45.612,
+        "to": 46.28,
+        "confidence": 0.91
+      },
+      {
+        "value": "don't",
+        "from": 47.69,
+        "to": 48.066,
+        "confidence": 0.95578
+      }
+    ],
+    "from": 43.45,
+    "to": 48.098
+  },
+  "fea5e0a5-1225-4b4c-aeb7-3bd1674da614": {
+    "words": [
+      {
+        "value": "Don't",
+        "from": 90.83,
+        "to": 91.286,
+        "confidence": 0.97694
+      },
+      {
+        "value": "let",
+        "from": 91.318,
+        "to": 91.514,
+        "confidence": 0.9977
+      },
+      {
+        "value": "it",
+        "from": 91.552,
+        "to": 91.754,
+        "confidence": 1
+      },
+      {
+        "value": "go,",
+        "from": 91.792,
+        "to": 92.38,
+        "confidence": 0.56452
+      },
+      {
+        "value": "don't",
+        "from": 93.55,
+        "to": 93.926,
+        "confidence": 0.82835
+      },
+      {
+        "value": "you",
+        "from": 93.958,
+        "to": 94.25,
+        "confidence": 0.75
+      },
+      {
+        "value": "hide?",
+        "from": 94.32,
+        "to": 95.05,
+        "confidence": 0.76987
+      }
+    ],
+    "from": 90.83,
+    "to": 95.05
+  }
+}
