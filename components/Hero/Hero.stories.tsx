@@ -13,7 +13,7 @@ export const Default = Template.bind({});
 Default.args = {
   title: "Welcome to our website!",
   subtitle: "We provide the best services for you.",
-  backgroundImg: "/placeholder.png",
+  // backgroundImg: "/placeholder.png",
   button: {
     text: "Learn More",
     link: "#",
